@@ -1,0 +1,619 @@
+# Translation of Plugins - 3D FlipBook, PDF Viewer, PDF Embedder &#8211; Real 3D FlipBook WordPress Plugin - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - 3D FlipBook, PDF Viewer, PDF Embedder &#8211; Real 3D FlipBook WordPress Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-11 14:19:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - 3D FlipBook, PDF Viewer, PDF Embedder &#8211; Real 3D FlipBook WordPress Plugin - Stable (latest release)\n"
+
+#: includes/addons.php:75
+msgid "Real3D Flipbook Addons"
+msgstr ""
+
+#: includes/addons.php:56
+msgid "More Info"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:787
+msgid "Select Image"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:783
+msgid "Select image from media library, or enter URL."
+msgstr ""
+
+#: includes/edit-flipbook-post.php:88
+msgid "Buy PDF Tools Addon"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:80 includes/Real3DFlipbook.php:373
+msgid "PDF Tools Addon for Real3D Flipbook"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:79 includes/Real3DFlipbook.php:372
+msgid "Optimize Real3D PDF Flipbooks with %1$s by converting PDF to images and JSON. Speed up the flipbook loading and secure the PDF."
+msgstr ""
+
+#: includes/addons.php:60
+msgid "Buy Now"
+msgstr ""
+
+#: includes/addons.php:62
+msgid "Installed"
+msgstr "Kurulu"
+
+#: includes/settings.php:165
+msgid "Just by enabling the option, Real3D Flipbok will be used instead of your old viewer."
+msgstr "Yalnızca seçeneği etkinleştirdiğinizde eski görüntüleyicinizin yerine Real3D Flipbook kullanılır."
+
+#: includes/settings.php:164
+msgid "Use Real3D Flipbook to show your existing PDF links or PDF Viewer / PDF Embedder / 3D Flipbook shortocodes."
+msgstr "Var olan PDF bağlantılarınızı ya da PDF görüntüleme / PDF yerleştirme / 3D Flipbook kısa kodlarınızı görüntülemek için Real3D Flipbook kullanın."
+
+#: includes/settings.php:51
+msgid "Overrides"
+msgstr "Değişiklikler"
+
+#. Plugin Name of the plugin
+#: real3d-flipbook-lite.php
+msgid "Real3D Flipbook PDF Viewer Lite"
+msgstr "Real3D Flipbook PDF Viewer Lite"
+
+#: includes/help.php:36
+msgid "Create New Flipbook"
+msgstr "Yeni yayın ekle"
+
+#: includes/help.php:30
+msgid "For more detailed instructions, visit the plugin's <a href=\"https://wordpress.org/plugins/real3d-flipbook-lite/\" target=\"_blank\">WordPress.org plugin page</a>."
+msgstr "Ayrıntılı bilgi almak için eklentinin <a href=\"https://wordpress.org/plugins/real3d-flipbook-lite/\" target=\"_blank\">WordPress.org eklenti sayfasına</a> bakabilirsiniz."
+
+#: includes/help.php:25
+msgid "Publish your flipbook and embed it in your posts or pages using the provided shortcode."
+msgstr "Yayınızı yayınlayın ve oluşturulan kısa kodu kullanarak yazılarınıza ya da sayfalarınıza ekleyin."
+
+#: includes/help.php:24
+msgid "Customize your flipbook using the available settings."
+msgstr "Kullanılabilecek ayarlar ile yayınınızı özelleştirin."
+
+#: includes/help.php:23
+msgid "Add pages to flipbook by clicking \"Select PDF or images\""
+msgstr "Eğitim videosu"
+
+#: includes/help.php:22
+msgid "Click \"Add New\" to create a new flipbook."
+msgstr "Yeni bir yayın oluşturmak için “Yeni ekle” üzerine tıklayın."
+
+#: includes/help.php:21
+msgid "Go to the Real3D Flipbook menu in your WordPress admin."
+msgstr "WordPress yönetim panosundaki Real3D Flipbook menüsüne gidin."
+
+#: includes/help.php:19
+msgid "To create a new flipbook:"
+msgstr "Yeni bir yayın oluşturmak için:"
+
+#: includes/help.php:18
+msgid "Getting Started"
+msgstr "Başlarken"
+
+#: includes/help.php:13
+msgid "Tutorial Video"
+msgstr "Eğitim videosu"
+
+#: includes/help.php:8
+msgid "Learn how to get started with Real3D Flipbook and utilize all its features."
+msgstr "Real3D Flipbook kullanmaya nasıl başlayacağınızı ve tüm özelliklerinden nasıl yararlanacağınızı öğrenin."
+
+#: includes/help.php:7
+msgid "Real3D Flipbook Help"
+msgstr "Real3D Flipbook yardımı"
+
+#: includes/Real3DFlipbook.php:1071
+msgid "Get Support"
+msgstr "Destek alın"
+
+#: includes/Real3DFlipbook.php:1065
+msgid "Getting Started Video"
+msgstr "Başlarken videosu"
+
+#: includes/Real3DFlipbook.php:1010
+msgid "Help"
+msgstr "Yardım"
+
+#. Description of the plugin
+#: real3d-flipbook-lite.php
+msgid "Realistic 3D FlipBook, PDF Viewer, PDF Embedder - create realistic 3D flipbook from PDF or images."
+msgstr "Gerçekçi 3D FlipBook, PDF görüntüleme, PDF yerleştirme - PDF ya da görsellerden gerçekçi 3B yayınlar oluşturun."
+
+#: includes/single-r3d.php:60
+msgid "Forbidden"
+msgstr "İzin verilmiyor"
+
+#: includes/settings.php:197
+msgid "Rest to defaults"
+msgstr "Varsayılan değerlere sıfırla"
+
+#: includes/settings.php:44
+msgid "Global default settings for all flipbooks"
+msgstr "Tüm yayınlar için genel varsayılan ayarlar"
+
+#: includes/settings.php:43
+msgid "Global settings"
+msgstr "Genel ayarlar"
+
+#: includes/settings.php:41
+msgid "Back to flipbooks list"
+msgstr "Yayınlar listesine dön"
+
+#: includes/Real3DFlipbook.php:782
+msgid "Thumbnail"
+msgstr "Küçük görsel"
+
+#: includes/Real3DFlipbook.php:818
+msgid "Insert flipbook"
+msgstr "Yayın ekle"
+
+#: includes/Real3DFlipbook.php:813
+msgid "CSS class"
+msgstr "CSS sınıfı"
+
+#: includes/Real3DFlipbook.php:804
+msgid "Show thumbnail"
+msgstr "Küçük görsel görüntülensin"
+
+#: includes/Real3DFlipbook.php:796 includes/Real3DFlipbook.php:806
+msgid "Default"
+msgstr "Varsayılan"
+
+#: includes/Real3DFlipbook.php:791
+msgid "Flipbook settings"
+msgstr "Yayın ayarları"
+
+#: includes/Real3DFlipbook.php:777
+msgid "Select images"
+msgstr "Görselleri seçin"
+
+#: includes/Real3DFlipbook.php:776
+msgid "Select PDF"
+msgstr "PDF seçin"
+
+#: includes/Real3DFlipbook.php:771
+msgid "Select PDF or images from media library, or enter PDF URL. PDF needs to be on the same domain or CORS needs to be enabled."
+msgstr "Ortam kitaplığından PDF ya da görseller seçin ya da PDF adresini yazın. PDF dosyasının aynı etki alanında olması veya CORS seçeneğinin etkinleştirilmesi gerekir."
+
+#: includes/Real3DFlipbook.php:766
+msgid "No flipbooks found. Create new flipbook or set flipbook source"
+msgstr "Herhangi bir yayın bulunamadı. Yeni bir yayın oluşturun ya da yayın kaynağını ayarlayın"
+
+#: includes/Real3DFlipbook.php:753
+msgid "Default Flipbook (Global Settings)"
+msgstr "Varsayılan yayın (genel ayarlar)"
+
+#: includes/Real3DFlipbook.php:751
+msgid "Insert Flipbook"
+msgstr "Yayın ekle"
+
+#: includes/Real3DFlipbook.php:651 includes/Real3DFlipbook.php:652
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: includes/Real3DFlipbook.php:640 includes/Real3DFlipbook.php:641
+msgid "Import / Export"
+msgstr "İçe / Dışa aktar"
+
+#: includes/Real3DFlipbook.php:616 includes/Real3DFlipbook.php:617
+msgid "Add new"
+msgstr "Yeni ekle"
+
+#: includes/Real3DFlipbook.php:465
+msgid "Select flipbook to insert into post"
+msgstr "Yazıya eklenecek yayını seçin"
+
+#: includes/Real3DFlipbook.php:145
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: includes/post-type.php:322
+msgid "Author"
+msgstr "Yazar"
+
+#: includes/post-type.php:321
+msgid "Date"
+msgstr "Tarih"
+
+#: includes/post-type.php:319 includes/Real3DFlipbook.php:1008
+msgid "Shortcode"
+msgstr "Kısa kod"
+
+#: includes/post-type.php:317
+msgid "Cover"
+msgstr "Kapak"
+
+#: includes/post-type.php:92 includes/Real3DFlipbook.php:632
+#: includes/Real3DFlipbook.php:633
+msgid "Authors"
+msgstr "Yazarlar"
+
+#: includes/post-type.php:91
+msgid "New Author"
+msgstr "Yazar ekle"
+
+#: includes/post-type.php:90
+msgid "Add New Author"
+msgstr "Yeni yazar ekle"
+
+#: includes/post-type.php:89
+msgid "Update Author"
+msgstr "Yazarı güncelle"
+
+#: includes/post-type.php:88
+msgid "Edit Author"
+msgstr "Yazarı düzenle"
+
+#: includes/post-type.php:87
+msgid "All Authors"
+msgstr "Tüm yazarlar"
+
+#: includes/post-type.php:86
+msgid "Search Authors"
+msgstr "Yazarları seçin"
+
+#: includes/post-type.php:85
+msgid "Flipbook Author"
+msgstr "Yayın yazarı"
+
+#: includes/post-type.php:84
+msgid "Flipbook Authors"
+msgstr "Yayın yazarları"
+
+#: includes/post-type.php:68 includes/Real3DFlipbook.php:624
+#: includes/Real3DFlipbook.php:625
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: includes/post-type.php:67
+msgid "New Category"
+msgstr "Kategori ekle"
+
+#: includes/post-type.php:66
+msgid "Add New Category"
+msgstr "Yeni kategori ekle"
+
+#: includes/post-type.php:65
+msgid "Update Category"
+msgstr "Kategoriyi güncelle"
+
+#: includes/post-type.php:64
+msgid "Edit Categories"
+msgstr "Kategorileri düzenle"
+
+#: includes/post-type.php:63
+msgid "All Categories"
+msgstr "Tüm kategoriler"
+
+#: includes/post-type.php:62
+msgid "Search Categories"
+msgstr "Kategori ara"
+
+#: includes/post-type.php:61
+msgid "Flipbook Category"
+msgstr "Yayın kategorisi"
+
+#: includes/post-type.php:60
+msgid "Flipbook Categories"
+msgstr "Yayın kategorileri"
+
+#: includes/post-type.php:34
+msgid "Description."
+msgstr "Açıklama."
+
+#: includes/post-type.php:29
+msgid "Flipbook Not found in Trash."
+msgstr "Yayın çöpte bulunamadı."
+
+#: includes/post-type.php:28
+msgid "Flipbook Not found."
+msgstr "Yayın bulunamadı."
+
+#: includes/post-type.php:27
+msgid "Parent Book:"
+msgstr "Üst kitap:"
+
+#: includes/post-type.php:26
+msgid "Search"
+msgstr "Ara"
+
+#: includes/post-type.php:25 includes/Real3DFlipbook.php:608
+#: includes/Real3DFlipbook.php:609
+msgid "Flipbooks"
+msgstr "Yayınlar"
+
+#: includes/post-type.php:24
+msgid "View Book"
+msgstr "Kitabı görüntüle"
+
+#: includes/post-type.php:23
+msgid "Edit Book"
+msgstr "Kitabı düzenle"
+
+#: includes/post-type.php:22
+msgid "New Book"
+msgstr "Kitap ekle"
+
+#: includes/post-type.php:21
+msgid "Add New Flipbook"
+msgstr "Yeni yayın ekle"
+
+#: includes/post-type.php:20
+msgid "Add New"
+msgstr "Yeni ekle"
+
+#: includes/post-type.php:16 includes/post-type.php:17
+#: includes/post-type.php:18 includes/post-type.php:19
+#: includes/Real3DFlipbook.php:467
+msgid "Real3D Flipbook"
+msgstr "Real3D Flipbook"
+
+#: includes/edit-flipbook-post.php:239
+msgid "HTML content"
+msgstr "HTML içerik"
+
+#: includes/edit-flipbook-post.php:234 includes/post-type.php:318
+msgid "Title"
+msgstr "Başlık"
+
+#: includes/edit-flipbook-post.php:224
+msgid "Replace image"
+msgstr "Görseli değiştir"
+
+#: includes/edit-flipbook-post.php:211
+msgid "Edit page"
+msgstr "Sayfayı düzenle"
+
+#: includes/edit-flipbook-post.php:207
+msgid "Close dialog"
+msgstr "Pencereyi kapat"
+
+#: includes/edit-flipbook-post.php:206
+msgid "Edit next media item"
+msgstr "Sonraki ortam ögesini düzenle"
+
+#: includes/edit-flipbook-post.php:205
+msgid "Edit previous media item"
+msgstr "Önceki ortam ögesini düzenle"
+
+#: includes/edit-flipbook-post.php:200
+msgid "Close media panel"
+msgstr "Ortam panosunu kapat"
+
+#: includes/edit-flipbook-post.php:178 includes/settings.php:116
+msgid "Social share buttons"
+msgstr "Sosyal ağ paylaşma düğmeleri"
+
+#: includes/edit-flipbook-post.php:177 includes/settings.php:115
+msgid "Close"
+msgstr "Kapat"
+
+#: includes/settings.php:114
+msgid "Bookmark"
+msgstr "Yer imi"
+
+#: includes/settings.php:113
+msgid "Search Input"
+msgstr "Arama alanı"
+
+#: includes/settings.php:112
+msgid "Search Button"
+msgstr "Arama düğmesi"
+
+#: includes/settings.php:111
+msgid "Select Tool"
+msgstr "Araç seçin"
+
+#: includes/edit-flipbook-post.php:176 includes/settings.php:110
+msgid "Fullscreen"
+msgstr "Tam ekran"
+
+#: includes/edit-flipbook-post.php:175 includes/settings.php:109
+msgid "Sound"
+msgstr "Ses"
+
+#: includes/edit-flipbook-post.php:174 includes/settings.php:108
+msgid "Download PDF"
+msgstr "PDF dosyasını indir"
+
+#: includes/settings.php:107
+msgid "Download pages"
+msgstr "Sayfaları indir"
+
+#: includes/edit-flipbook-post.php:173 includes/settings.php:106
+msgid "Print"
+msgstr "Yazdır"
+
+#: includes/settings.php:105
+msgid "Notes"
+msgstr "Notlar"
+
+#: includes/edit-flipbook-post.php:172 includes/settings.php:104
+msgid "Share"
+msgstr "Paylaş"
+
+#: includes/edit-flipbook-post.php:171 includes/settings.php:103
+msgid "Thumbnails"
+msgstr "Küçük görseller"
+
+#: includes/edit-flipbook-post.php:169 includes/settings.php:101
+msgid "Zoom Out"
+msgstr "Uzaklaştır"
+
+#: includes/edit-flipbook-post.php:168 includes/settings.php:100
+msgid "Zoom In"
+msgstr "Yakınlaştır"
+
+#: includes/settings.php:99
+msgid "Autoplay"
+msgstr "Otomatik oynat"
+
+#: includes/settings.php:98
+msgid "Last page"
+msgstr "Son sayfa"
+
+#: includes/edit-flipbook-post.php:167 includes/settings.php:97
+msgid "Next page"
+msgstr "Sonraki sayfa"
+
+#: includes/edit-flipbook-post.php:166 includes/settings.php:96
+msgid "Previous page"
+msgstr "Önceki sayfa"
+
+#: includes/settings.php:95
+msgid "First page"
+msgstr "İlk sayfa"
+
+#: includes/edit-flipbook-post.php:165 includes/settings.php:94
+msgid "Current page"
+msgstr "Geçerli sayfa"
+
+#: includes/edit-flipbook-post.php:161 includes/settings.php:90
+msgid "Menu buttons"
+msgstr "Menü düğmeleri"
+
+#: includes/settings.php:143
+msgid "Sidebar"
+msgstr "Kenar çubuğu"
+
+#: includes/settings.php:142
+msgid "Close lightbox button"
+msgstr "Lightbox kapatma düğmesi"
+
+#: includes/settings.php:141
+msgid "Side navigation buttons"
+msgstr "Kenar gezinme düğmeleri"
+
+#: includes/settings.php:140
+msgid "Floating Buttons (on transparent menu)"
+msgstr "Yüzen düğmeler (saydam menüde)"
+
+#: includes/settings.php:139
+msgid "Buttons"
+msgstr "Düğmeler"
+
+#: includes/settings.php:138
+msgid "Bottom Menu"
+msgstr "Alt menü"
+
+#: includes/settings.php:137
+msgid "Top Menu"
+msgstr "Üst menü"
+
+#: includes/settings.php:136
+msgid "Flipbook background"
+msgstr "Yayın arka planı"
+
+#: includes/settings.php:135
+msgid "Skin"
+msgstr "Tema"
+
+#: includes/settings.php:131
+msgid "Override layout and skin settings"
+msgstr "Yerleşim ve tema ayarlarını değiştir"
+
+#: includes/settings.php:130
+msgid "Advanced settings"
+msgstr "Gelişmiş ayarlar"
+
+#: includes/edit-flipbook-post.php:125 includes/settings.php:73
+msgid "Override settings for mobile devices (use different view mode, smaller textures ect)"
+msgstr "Mobil aygıtlar için ayarları değiştirin (farklı görünüm kipi ve daha küçük dokular kullanmak gibi)"
+
+#: includes/edit-flipbook-post.php:107
+msgid "Delete all"
+msgstr "Tümünü sil"
+
+#: includes/edit-flipbook-post.php:106
+msgid "Add item"
+msgstr "Öge ekle"
+
+#: includes/edit-flipbook-post.php:104
+msgid "Create custom Table of Contents. This overrides default PDF outline or table of contents created by page titles."
+msgstr "Özel içindekiler tablosu oluşturun. Bu işlem, varsayılan PDF taslağını ya da sayfa başlıkları tarafından oluşturulan içindekiler tablosunu değiştirir."
+
+#: includes/edit-flipbook-post.php:99
+msgid "Delete all pages"
+msgstr "Tüm sayfaları sil"
+
+#: includes/edit-flipbook-post.php:72
+msgid "Select PDF or images from media library, or enter PDF URL"
+msgstr "Ortam kitaplığından PDF ya da görseller seçin ya da PDF adresini yazın"
+
+#: includes/edit-flipbook-post.php:70
+msgid "Convert with PDF Tools"
+msgstr "PDF araçları ile dönüştür"
+
+#: includes/edit-flipbook-post.php:68
+msgid "Select PDF or images"
+msgstr "PDF ya da görselleri seçin"
+
+#: includes/edit-flipbook-post.php:66 includes/Real3DFlipbook.php:770
+msgid "Flipbook source"
+msgstr "Yayın kaynağı"
+
+#: includes/edit-flipbook-post.php:60
+msgid "Select PDF or images from media library, or enter PDF URL."
+msgstr "Ortam kitaplığından PDF ya da görseller seçin ya da PDF adresini yazın."
+
+#: includes/edit-flipbook-post.php:53
+msgid "Menu Buttons"
+msgstr "Menü düğmeleri"
+
+#: includes/edit-flipbook-post.php:50
+msgid "Mobile"
+msgstr "Mobil"
+
+#: includes/edit-flipbook-post.php:49
+msgid "WebGL"
+msgstr "WebGL"
+
+#: includes/edit-flipbook-post.php:48
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/edit-flipbook-post.php:47 includes/edit-flipbook-post.php:170
+#: includes/settings.php:102
+msgid "Table of Contents"
+msgstr "İçindekiler"
+
+#: includes/edit-flipbook-post.php:46
+msgid "General"
+msgstr "Genel"
+
+#: includes/edit-flipbook-post.php:45
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: includes/edit-flipbook-post.php:20 includes/settings.php:16
+msgid "Toggle panel:"
+msgstr "Panoyu aç/kapat:"
+
+#: includes/addons.php:81
+msgid "Make Real3D Flipbook more powerful with Addons"
+msgstr ""
+
+#. Author URI of the plugin
+#: real3d-flipbook-lite.php
+msgid "http://codecanyon.net/user/creativeinteractivemedia"
+msgstr "http://codecanyon.net/user/creativeinteractivemedia"
+
+#. Author of the plugin
+#: real3d-flipbook-lite.php
+msgid "creativeinteractivemedia"
+msgstr "creativeinteractivemedia"
+
+#. Plugin URI of the plugin
+#: real3d-flipbook-lite.php
+msgid "https://wordpress.org/plugins/real3d-flipbook-lite/"
+msgstr "https://wordpress.org/plugins/real3d-flipbook-lite/"

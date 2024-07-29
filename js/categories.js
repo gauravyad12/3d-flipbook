@@ -1,0 +1,1 @@
+!function(e){e(document).ready((function(){e(document.body).append('<input type="text" id="copy-text-hidden" value="" style="opacity: 0; pointer-events: none; ">'),e(".copy-shortcode").on("click",(function(){var t="[real3dflipbook category='"+e(this).attr("id")+"']",o=document.getElementById("copy-text-hidden");o.value=t,o.select(),document.execCommand("copy")}))}))}(jQuery);

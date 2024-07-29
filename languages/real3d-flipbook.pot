@@ -1,0 +1,710 @@
+# Copyright (C) 2024 creativeinteractivemedia
+# This file is distributed under the same license as the Real3D Flipbook & PDF Viewer plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Real3D Flipbook & PDF Viewer 3.69\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/real3d-flipbook\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-28T11:09:21+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: real3d-flipbook\n"
+
+#. Plugin Name of the plugin
+msgid "Real3D Flipbook & PDF Viewer"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://codecanyon.net/item/real3d-flipbook-wordpress-plugin/6942587"
+msgstr ""
+
+#. Description of the plugin
+msgid "Premium Responsive Real 3D FlipBook & PDF Viewer"
+msgstr ""
+
+#. Author of the plugin
+msgid "creativeinteractivemedia"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codecanyon.net/user/creativeinteractivemedia"
+msgstr ""
+
+#: includes/addons.php:56
+msgid "More Info"
+msgstr ""
+
+#: includes/addons.php:60
+msgid "Buy Now"
+msgstr ""
+
+#: includes/addons.php:62
+msgid "Installed"
+msgstr ""
+
+#: includes/addons.php:75
+msgid "Real3D Flipbook Addons"
+msgstr ""
+
+#: includes/addons.php:81
+msgid "Make Real3D Flipbook more powerful with Addons"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:20
+#: includes/settings.php:16
+msgid "Toggle panel:"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:45
+#: includes/Real3DFlipbook.php:1767
+msgid "Pages"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:46
+#: includes/settings.php:52
+msgid "General"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:47
+#: includes/edit-flipbook-post.php:209
+#: includes/Real3DFlipbook.php:1763
+#: includes/Real3DFlipbook.php:1960
+#: includes/settings.php:131
+msgid "Table of Contents"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:48
+#: includes/settings.php:53
+msgid "Lightbox"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:49
+#: includes/settings.php:54
+msgid "WebGL"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:50
+#: includes/settings.php:55
+msgid "Mobile"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:54
+#: includes/settings.php:56
+msgid "UI"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:58
+#: includes/settings.php:57
+msgid "Menu Buttons"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:62
+#: includes/settings.php:58
+msgid "Translate"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:70
+msgid "Select PDF or images from media library, or enter PDF URL."
+msgstr ""
+
+#: includes/edit-flipbook-post.php:76
+msgid "Flipbook source"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:78
+msgid "Select PDF or images"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:80
+msgid "Convert with PDF Tools"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:82
+msgid "Select PDF or images from media library, or enter PDF URL"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:89
+#: includes/Real3DFlipbook.php:382
+msgid "Optimize Real3D PDF Flipbooks with %1$s by converting PDF to images and JSON. Speed up the flipbook loading and secure the PDF."
+msgstr ""
+
+#: includes/edit-flipbook-post.php:90
+#: includes/Real3DFlipbook.php:383
+msgid "PDF Tools Addon for Real3D Flipbook"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:98
+msgid "Buy PDF Tools Addon"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:109
+msgid "Delete all pages"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:114
+msgid "Create custom Table of Contents. This overrides default PDF outline or table of contents created by page titles."
+msgstr ""
+
+#: includes/edit-flipbook-post.php:116
+msgid "Add item"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:117
+msgid "Delete all"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:135
+#: includes/settings.php:102
+msgid "Override settings for mobile devices (use different view mode, smaller textures ect)"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:161
+#: includes/settings.php:159
+msgid "Advanced settings"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:162
+#: includes/settings.php:160
+msgid "Override layout and skin settings"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:170
+#: includes/settings.php:164
+msgid "Skin"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:171
+#: includes/settings.php:165
+msgid "Flipbook background"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:172
+#: includes/settings.php:166
+msgid "Top Menu"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:173
+#: includes/settings.php:167
+msgid "Bottom Menu"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:174
+#: includes/settings.php:168
+msgid "Buttons"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:175
+#: includes/settings.php:169
+msgid "Floating Buttons (on transparent menu)"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:176
+#: includes/settings.php:170
+msgid "Side navigation buttons"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:177
+#: includes/settings.php:171
+msgid "Close lightbox button"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:178
+#: includes/settings.php:172
+msgid "Sidebar"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:193
+#: includes/settings.php:119
+msgid "Menu buttons"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:197
+#: includes/Real3DFlipbook.php:1729
+#: includes/settings.php:123
+msgid "Current page"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:199
+#: includes/settings.php:124
+msgid "First page"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:201
+#: includes/settings.php:125
+msgid "Previous page"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:202
+#: includes/settings.php:126
+msgid "Next page"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:204
+#: includes/settings.php:127
+msgid "Last page"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:205
+#: includes/Real3DFlipbook.php:1735
+#: includes/settings.php:128
+msgid "Autoplay"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:207
+#: includes/settings.php:129
+msgid "Zoom In"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:208
+#: includes/settings.php:130
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:210
+#: includes/Real3DFlipbook.php:1959
+#: includes/settings.php:132
+msgid "Thumbnails"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:211
+#: includes/Real3DFlipbook.php:1771
+#: includes/Real3DFlipbook.php:1961
+#: includes/settings.php:133
+msgid "Share"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:213
+#: includes/Real3DFlipbook.php:1775
+#: includes/settings.php:134
+msgid "Notes"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:215
+#: includes/Real3DFlipbook.php:1815
+#: includes/Real3DFlipbook.php:1938
+#: includes/settings.php:135
+msgid "Print"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:217
+#: includes/Real3DFlipbook.php:1780
+#: includes/settings.php:136
+msgid "Download pages"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:219
+#: includes/Real3DFlipbook.php:1785
+#: includes/settings.php:137
+msgid "Download PDF"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:220
+#: includes/Real3DFlipbook.php:1791
+#: includes/settings.php:138
+msgid "Sound"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:221
+#: includes/settings.php:139
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:223
+#: includes/settings.php:140
+msgid "Select Tool"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:224
+#: includes/settings.php:141
+msgid "Search Button"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:225
+#: includes/settings.php:142
+msgid "Search Input"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:226
+#: includes/Real3DFlipbook.php:1811
+#: includes/settings.php:143
+msgid "Bookmark"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:228
+#: includes/Real3DFlipbook.php:1819
+#: includes/settings.php:144
+msgid "Close"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:229
+#: includes/settings.php:145
+msgid "Social share buttons"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:251
+msgid "Close media panel"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:256
+msgid "Edit previous media item"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:257
+msgid "Edit next media item"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:258
+msgid "Close dialog"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:262
+msgid "Edit page"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:275
+msgid "Replace image"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:285
+msgid "Title"
+msgstr ""
+
+#: includes/edit-flipbook-post.php:290
+msgid "HTML content"
+msgstr ""
+
+#: includes/license.php:9
+msgid "License Settings"
+msgstr ""
+
+#: includes/license.php:10
+msgid "This page allows you to activate or deactivate your Real3D Flipbook license. Please enter your Envato purchase code to activate your license. If you don't know where to find your purchase code, see the instructions below."
+msgstr ""
+
+#: includes/license.php:13
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: includes/license.php:16
+msgid "Activate"
+msgstr ""
+
+#: includes/license.php:17
+msgid "Deactivate"
+msgstr ""
+
+#: includes/license.php:22
+msgid "Where to Find Your Envato Purchase Code"
+msgstr ""
+
+#: includes/license.php:24
+msgid "Log in to your Envato Market account."
+msgstr ""
+
+#: includes/license.php:25
+msgid "Hover over your username at the top of the screen."
+msgstr ""
+
+#: includes/license.php:26
+msgid "Click 'Downloads' from the drop-down menu."
+msgstr ""
+
+#: includes/license.php:27
+msgid "Find the Real3D Flipbook item and click 'License certificate & purchase code' (available as PDF or text file)."
+msgstr ""
+
+#: includes/post-type.php:16
+#: includes/post-type.php:17
+#: includes/post-type.php:18
+#: includes/post-type.php:19
+msgid "Real3D Flipbook"
+msgstr ""
+
+#: includes/post-type.php:20
+msgid "Add New"
+msgstr ""
+
+#: includes/post-type.php:21
+msgid "Add New Flipbook"
+msgstr ""
+
+#: includes/post-type.php:22
+msgid "New Book"
+msgstr ""
+
+#: includes/post-type.php:23
+msgid "Edit Book"
+msgstr ""
+
+#: includes/post-type.php:24
+msgid "View Book"
+msgstr ""
+
+#: includes/post-type.php:25
+#: includes/Real3DFlipbook.php:696
+#: includes/Real3DFlipbook.php:697
+msgid "Flipbooks"
+msgstr ""
+
+#: includes/post-type.php:26
+#: includes/Real3DFlipbook.php:1803
+#: includes/Real3DFlipbook.php:1807
+#: includes/Real3DFlipbook.php:1952
+msgid "Search"
+msgstr ""
+
+#: includes/post-type.php:27
+msgid "Parent Book:"
+msgstr ""
+
+#: includes/post-type.php:28
+msgid "Flipbook Not found."
+msgstr ""
+
+#: includes/post-type.php:29
+msgid "Flipbook Not found in Trash."
+msgstr ""
+
+#: includes/post-type.php:34
+msgid "Description."
+msgstr ""
+
+#: includes/post-type.php:62
+msgid "Search Categories"
+msgstr ""
+
+#: includes/post-type.php:63
+msgid "All Categories"
+msgstr ""
+
+#: includes/post-type.php:64
+msgid "Edit Categories"
+msgstr ""
+
+#: includes/post-type.php:65
+msgid "Update Category"
+msgstr ""
+
+#: includes/post-type.php:66
+msgid "Add New Category"
+msgstr ""
+
+#: includes/post-type.php:67
+msgid "New Category"
+msgstr ""
+
+#: includes/post-type.php:68
+#: includes/Real3DFlipbook.php:712
+#: includes/Real3DFlipbook.php:713
+msgid "Categories"
+msgstr ""
+
+#: includes/post-type.php:86
+msgid "Search Authors"
+msgstr ""
+
+#: includes/post-type.php:87
+msgid "All Authors"
+msgstr ""
+
+#: includes/post-type.php:88
+msgid "Edit Author"
+msgstr ""
+
+#: includes/post-type.php:89
+msgid "Update Author"
+msgstr ""
+
+#: includes/post-type.php:90
+msgid "Add New Author"
+msgstr ""
+
+#: includes/post-type.php:91
+msgid "New Author"
+msgstr ""
+
+#: includes/post-type.php:92
+#: includes/Real3DFlipbook.php:720
+#: includes/Real3DFlipbook.php:721
+msgid "Authors"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:704
+#: includes/Real3DFlipbook.php:705
+msgid "Add new"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:728
+#: includes/Real3DFlipbook.php:729
+msgid "Import / Export"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:739
+#: includes/Real3DFlipbook.php:740
+msgid "Settings"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:772
+#: includes/Real3DFlipbook.php:773
+msgid "License"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1739
+msgid "Next Page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1743
+msgid "Last Page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1747
+msgid "Previous Page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1751
+msgid "First Page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1755
+msgid "Zoom in"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1759
+msgid "Zoom out"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1795
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1799
+msgid "Select tool"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1939
+msgid "Print left page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1940
+msgid "Print right page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1941
+msgid "Print current page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1942
+msgid "Print all pages"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1943
+msgid "Download"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1944
+msgid "Download left page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1945
+msgid "Download right page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1946
+msgid "Download current page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1947
+msgid "Download all pages"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1948
+msgid "Bookmarks"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1949
+msgid "Bookmark left page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1950
+msgid "Bookmark right page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1951
+msgid "Bookmark current page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1953
+msgid "Find in document"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1954
+msgid "pages found containing"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1955
+msgid "No matches"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1956
+msgid "matches found"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1957
+msgid "Page"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1958
+msgid "matches"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1962
+msgid "Press ESC to close"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1963
+msgid "Password"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1964
+msgid "Add note"
+msgstr ""
+
+#: includes/Real3DFlipbook.php:1965
+msgid "Type in your note..."
+msgstr ""
+
+#: includes/settings.php:43
+msgid "Global settings"
+msgstr ""
+
+#: includes/settings.php:44
+msgid "Global default settings for all flipbooks"
+msgstr ""
+
+#: includes/settings.php:62
+msgid "Overrides"
+msgstr ""
+
+#: includes/settings.php:66
+msgid "Advanced"
+msgstr ""
+
+#: includes/settings.php:71
+msgid "PDF Tools"
+msgstr ""
+
+#: includes/settings.php:193
+msgid "Use Real3D Flipbook to show your existing PDF links or PDF Viewer / PDF Embedder / 3D Flipbook shortocodes."
+msgstr ""
+
+#: includes/settings.php:194
+msgid "Just by enabling the option, Real3D Flipbok will be used instead of your old viewer."
+msgstr ""
+
+#: includes/settings.php:226
+msgid "Rest to defaults"
+msgstr ""
